@@ -1,3 +1,3 @@
 Initial data
 some more data after the first commit
-this line is in second branch
+this line is in modified data second branch
